@@ -26,7 +26,7 @@ The purpose of this analysis is to creat a report that shows what cryptocurrenci
 
 ![clusters_df](Images/clusters_df.png)
 
-**Deliverable 4: Visualizing Cryptocurrencies Results
+**Deliverable 4: Visualizing Cryptocurrencies Results**
 
 3D Scatter using the PCA data and Clusters. 
 ![3D_scatter](Images/3D_scatter.png)
