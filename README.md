@@ -20,7 +20,9 @@ The purpose of this analysis is to creat a report that shows what cryptocurrenci
 
 ![elbow_curve](Images/elbow_curve.png)
 
+
 ![predictions](Images/predictions.png)
+
 
 ![clusters_df](Images/clusters_df.png)
 
